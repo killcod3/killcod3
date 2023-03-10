@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jawad</h1>
 <h3 align="center">A full stack developer with expertise in Python and JavaScript, Passionate about creating end-to-end solutions for businesses and organizations.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=killcod3&label=Profile%20Views&color=00ff2a&style=plastic" alt="killcod3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=killcod3&label=Profile%20Views&color=000000&style=plastic" alt="killcod3" /> </p>
 
 - 🔭 I’m currently working on **a real-time monitoring system to track and store p2p trading history**
 
 - 🌱 I’m currently learning **TypeORM & nestJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/killcod3?tab=repositories](https://github.com/killcod3?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repo Tab](https://github.com/killcod3?tab=repositories)
 
-- 💬 Ask me about **express.js , next.js, pyhton**
+- 💬 Ask me about **express.js , next.js & pyhton**
 
 - 📫 Email me at **shafiquejr@gmail.com**
 
