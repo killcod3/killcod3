@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a real-time monitoring system to track and store p2p trading history**
 
-- 🌱 I’m currently learning **Typeorm, nestJS**
+- 🌱 I’m currently learning **TypeORM & nestJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/killcod3?tab=repositories](https://github.com/killcod3?tab=repositories)
 
