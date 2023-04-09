@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Repo Tab](https://github.com/killcod3?tab=repositories)
 
-- 💬 Ask me about **express.js , next.js & pyhton**
+- 💬 Ask me about **express.js , next.js & python**
 
 - 📫 Email me at **shafiquejr@gmail.com**
 
